@@ -8,6 +8,9 @@ Para sua comodidade, a imagem já foi baixada e está disponível na pasta.
 
 Valor da atividade: 0,5 ponto.
 
+### Início
+Faça um fork deste repositório e em seguida faça o ```git clone``` na sua máquina.
+
 ### Cores Utilizadas
 * Textos: #271A45
 * Fundo: #D9CDF7
